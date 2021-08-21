@@ -1,7 +1,7 @@
 # Jenkins server Installation
 
 ### Prerequisites 
- 1. EC2 Linux 7.x Instance
+ 1. Centos Linux 7.x Image
 
  2. Java v1.8.x
 
@@ -67,8 +67,8 @@ http://YOUR-SERVER-PUBLIC-IP:8080
 - Create another admin user id
 
 ### Test Jenkins Jobs
-1. Create ìnew itemî
-1. Enter an item name ñ `My-First-Project`
+1. Create ‚Äúnew item‚Äù
+1. Enter an item name ‚Äì `My-First-Project`
    - Chose `Freestyle` project
 1. Under Build section
 	Execute shell : echo "Welcome to Jenkins Demo"
