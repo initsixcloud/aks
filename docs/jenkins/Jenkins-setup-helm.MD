@@ -1,4 +1,4 @@
-### Jenkins server setup with Helm to deploy into Kubernetes cluster
+### Jenkins server setup with Helm to deploy into Azure Kubernetes cluster
 
 ## Download and Install helm 
 ```sh
