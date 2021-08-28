@@ -13,7 +13,7 @@ helm version
 helm
 ```
 
-## Copy config file from Kubernetes master to Jenkins home directory
+## Copy config file from Azure Kubernetes master to Jenkins home directory
 ```sh
 mkdir /var/lib/jenkins/.kube
 copy config file under .kube directory with jenkins ownership
