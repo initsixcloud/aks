@@ -1,4 +1,5 @@
-## Access Azure Kubernetes Cluster from Local Machine. Install Azure CLI
+## Access Azure Kubernetes Cluster from Local Machine. 
+## Install Azure CLI
 ```sh
 wget https://aka.ms/installazurecliwindows
 ```
