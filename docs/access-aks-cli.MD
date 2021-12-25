@@ -1,7 +1,11 @@
 ## Access Azure Kubernetes Cluster from Local Machine. 
 ## Install Azure CLI
 ```sh
+## Install Azure CLI on Linux Machines
 wget https://aka.ms/installazurecliwindows
+
+## Download and Install Azure CLI on Windows
+https://aka.ms/installazurecliwindows
 ```
 
 ## Once download is complete, Install .msi file to get azure cli
